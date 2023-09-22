@@ -27,14 +27,12 @@ public class Flattener : IFlattener
 
     private async Task FlattenDictionaryAsync(string parentKey, object data, List<Task> tasks = null)
     {
-        string finalKey = string.Empty;
-        string value = string.Empty;
         tasks ??= new List<Task>();
 
         if (data is not IDictionary<string, object> || data == null)
         {
-            finalKey = parentKey;
-            value = JsonSerializer.Serialize(data);
+            string finalKey = parentKey;
+            string value = JsonSerializer.Serialize(data);
 
             _result.Add(finalKey, value);
             return;
