@@ -1,0 +1,15 @@
+C:\Projects\.Net\Flattener\Flattener\bin\Debug\net6.0\Flattener.exe
+C:\Projects\.Net\Flattener\Flattener\bin\Debug\net6.0\Flattener.deps.json
+C:\Projects\.Net\Flattener\Flattener\bin\Debug\net6.0\Flattener.runtimeconfig.json
+C:\Projects\.Net\Flattener\Flattener\bin\Debug\net6.0\Flattener.dll
+C:\Projects\.Net\Flattener\Flattener\bin\Debug\net6.0\Flattener.pdb
+C:\Projects\.Net\Flattener\Flattener\obj\Debug\net6.0\Flattener.csproj.AssemblyReference.cache
+C:\Projects\.Net\Flattener\Flattener\obj\Debug\net6.0\Flattener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\.Net\Flattener\Flattener\obj\Debug\net6.0\Flattener.AssemblyInfoInputs.cache
+C:\Projects\.Net\Flattener\Flattener\obj\Debug\net6.0\Flattener.AssemblyInfo.cs
+C:\Projects\.Net\Flattener\Flattener\obj\Debug\net6.0\Flattener.csproj.CoreCompileInputs.cache
+C:\Projects\.Net\Flattener\Flattener\obj\Debug\net6.0\Flattener.dll
+C:\Projects\.Net\Flattener\Flattener\obj\Debug\net6.0\refint\Flattener.dll
+C:\Projects\.Net\Flattener\Flattener\obj\Debug\net6.0\Flattener.pdb
+C:\Projects\.Net\Flattener\Flattener\obj\Debug\net6.0\Flattener.genruntimeconfig.cache
+C:\Projects\.Net\Flattener\Flattener\obj\Debug\net6.0\ref\Flattener.dll

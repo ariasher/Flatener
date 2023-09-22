@@ -8,6 +8,6 @@ namespace Flattener;
 
 public interface IFlattener
 {
-    IDictionary<string, string> Flatten(IDictionary<string, object> data);
-    IDictionary<string, T?> Flatten<T>(IDictionary<string, object> data);
+    Task<IDictionary<string, string>> FlattenAsync(IDictionary<string, object> data);
+    //Task<IDictionary<string, T?>> Flatten<T>(IDictionary<string, object> data);
 }
